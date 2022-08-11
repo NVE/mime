@@ -1,6 +1,6 @@
 ### Info
 
-Pakken «[mime](https://github.com/NVE/mime/packages/1583832)» inneholder designverdier som skal brukes i NVE prosjekter. Verdiene er satt av designansvarlig for NVE Designsystem i [Figma](figma.com).
+Pakken «[mime](https://github.com/NVE/mime/packages/1591505)» inneholder designverdier som skal brukes i NVE prosjekter. Verdiene er satt av designansvarlig for NVE Designsystem i [Figma](figma.com).
 
 ---
 
