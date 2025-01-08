@@ -1,15 +1,15 @@
-# Dette prosjektet er utdatert og vil ganske snart forsvinne
+# Dette prosjektet er utdatert og vil ganske snart forsvinne [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 Her finner du oppdatert info om NVE sitt designsystem:
 - https://designsystem.nve.no
 - https://github.com/NVE/Designsystem
+
+---
 
 ## Utdatert info
 
 ### Info
 
 Pakken «[mime](https://github.com/NVE/mime/packages/1591505)» inneholder designverdier som skal brukes i NVE prosjekter. Verdiene er satt av designansvarlig for NVE Designsystem i [Figma](figma.com).
-
----
 
 ### Importering
 
